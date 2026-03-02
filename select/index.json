@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "UNION!!",
+  "base_artist": "765PRO ALLSTARS",
+  "createdAt": "2026-03-02T13:10:32.340772Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Union City Blue",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/01_Union_City_Blue_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Union City Blue",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/02_Union_City_Blue_Blondie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Union Maid",
+      "artist": "Old Crow Medicine Show",
+      "has_synced": false,
+      "path": "select/03_Union_Maid_Old_Crow_Medicine_Show.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The State Of The Union",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/04_The_State_Of_The_Union_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "World in Union (English / Maori)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/05_World_in_Union_(English___Maori)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "World In Union (English \u0000 Maori)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/06_World_In_Union_(English_\u0000_Maori)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "World In Union (English)",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/07_World_In_Union_(English)_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "There Is Power in a Union",
+      "artist": "Billy Bragg",
+      "has_synced": true,
+      "path": "select/08_There_Is_Power_in_a_Union_Billy_Bragg.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ritual Union",
+      "artist": "Little Dragon",
+      "has_synced": true,
+      "path": "select/09_Ritual_Union_Little_Dragon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Means to an End - Live at Live 8, University of London Union",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/10_A_Means_to_an_End_-_Live_at_Live_8,_University_of_London_Union_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Means to an End (Live at Live 8, University of London Union)",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/11_A_Means_to_an_End_(Live_at_Live_8,_University_of_London_Union)_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Colony - Live at Live 8, University of London Union",
+      "artist": "Joy Division",
+      "has_synced": false,
+      "path": "select/12_Colony_-_Live_at_Live_8,_University_of_London_Union_Joy_Division.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Colony (Live at Live 8, University of London Union)",
+      "artist": "Joy Division",
+      "has_synced": false,
+      "path": "select/13_Colony_(Live_at_Live_8,_University_of_London_Union)_Joy_Division.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dead Souls - Live at Live 8, University of London Union",
+      "artist": "Joy Division",
+      "has_synced": false,
+      "path": "select/14_Dead_Souls_-_Live_at_Live_8,_University_of_London_Union_Joy_Division.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dead Souls (Live at Live 8, University of London Union)",
+      "artist": "Joy Division",
+      "has_synced": false,
+      "path": "select/15_Dead_Souls_(Live_at_Live_8,_University_of_London_Union)_Joy_Division.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Digital - Live at Live 8, University of London Union; Encore",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/16_Digital_-_Live_at_Live_8,_University_of_London_Union;_Encore_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Digital (Live at Live 8, University of London Union — Encore)",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/17_Digital_(Live_at_Live_8,_University_of_London_Union_—_Encore)_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "En la Fuente de la Unión",
+      "artist": "Los Abuelos de la Nada",
+      "has_synced": true,
+      "path": "select/18_En_la_Fuente_de_la_Unión_Los_Abuelos_de_la_Nada.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNION!!",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": false,
+      "path": "select/pl_01_UNION!!_765PRO_ALLSTARS.txt"
+    }
+  ]
+}
